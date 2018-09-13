@@ -22,13 +22,13 @@ p {
 div {
   background-color: lightgray;
 }
-.cat {
+.bullet {
   width: 150px;
   border-color: green;
   border-width: 10px;
   border-style: double;
 }
-.another-cat {
+.another-bullet {
   width: 200px;
   border-radius: 50%;
   border-color: black;
