@@ -1,0 +1,37 @@
+p {
+  color: Red;
+  border-width: 1em;
+  border-color: Gold;
+  border-width: 10px;
+  padding: 12px;
+  margin: 2em;
+  font-family: lobster, monospace;
+}
+.first-class {
+  color: blue;
+  font-size: 2em;
+}
+#first-heading {
+  color: green;
+  background-color: magenta;
+  border-color: Black;
+  border-width: 15px;
+  border-style: double;
+  border-radius: 20px;
+}
+div {
+  background-color: lightgray;
+}
+.cat {
+  width: 150px;
+  border-color: green;
+  border-width: 10px;
+  border-style: double;
+}
+.another-cat {
+  width: 200px;
+  border-radius: 50%;
+  border-color: black;
+  border-with: 10px;
+  border-style: solid;
+}
